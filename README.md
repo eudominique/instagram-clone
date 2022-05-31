@@ -2,4 +2,4 @@
 
 ### Projeto:
 
-- Clone da página de login do Instagram para para praticar conhecimentos de flexbox css. 
+- Clone da página inicial do Instagram para para praticar conhecimentos de flexbox css. 
